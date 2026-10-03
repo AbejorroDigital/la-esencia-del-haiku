@@ -1,0 +1,6 @@
+{
+  "name": "La Esencia del Haiku: Más allá de la métrica",
+  "description": "Aplicación de aprendizaje autónomo y contemplación poética sobre la esencia estética, espiritual y filosófica del Haiku japonés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
